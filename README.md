@@ -1,8 +1,4 @@
-# Course Project - Skribbl.io Game
-
-> Our Team: Zainulabuddin Syed, Ashwin Gnanaseelan, Harsh Patel, Taha Rana
-
-> Course: CSCI 2020U: Software Systems Development and Integration
+# Skribbl.io Game
 
 ## Project Information:
 This project aims to develop a [skribbl.io](https://skribbl.io/) game with a web chat server using websockets for real-time communication.
